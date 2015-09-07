@@ -1,0 +1,8 @@
+C:\Users\Christian\Dropbox\Projects\Bragi\Bragi\bin\Debug\Bragi.exe.config
+C:\Users\Christian\Dropbox\Projects\Bragi\Bragi\obj\Debug\Bragi.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Dropbox\Projects\Bragi\Bragi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Christian\Dropbox\Projects\Bragi\Bragi\obj\Debug\Bragi.csproj.ResolveComReference.cache
+C:\Users\Christian\Dropbox\Projects\Bragi\Bragi\bin\Debug\Bragi.exe
+C:\Users\Christian\Dropbox\Projects\Bragi\Bragi\bin\Debug\Bragi.pdb
+C:\Users\Christian\Dropbox\Projects\Bragi\Bragi\obj\Debug\Bragi.exe
+C:\Users\Christian\Dropbox\Projects\Bragi\Bragi\obj\Debug\Bragi.pdb
